@@ -364,3 +364,46 @@ main div h1 {
     font-style: normal;
     font-weight: 700;
 }
+
+footer {
+    width: 1922px;
+    height: 449px;
+    background: #111010;
+    text-align: center;
+}
+
+footer h1 {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 128px;
+    margin-bottom: 24px;
+}
+
+#footercolor {
+    color: #E55473;
+}
+
+footer p {
+    width: 625px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 648px;
+    margin-bottom: 32px;
+}
+
+footer h4 {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
