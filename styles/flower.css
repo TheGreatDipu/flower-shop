@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
 #frontposter {
     width: 1920px;
     height: 850px;
@@ -41,6 +47,7 @@ header div div button {
     font-style: normal;
     font-weight: 700;
     margin-bottom: 147px;
+    border: none;
 }
 
 #redflower {
@@ -143,6 +150,7 @@ main div h1 {
     margin-left: 240px;
     display: flex;
     gap: 100px;
+    margin-bottom: 128px;
 }
 
 .common {
@@ -195,4 +203,164 @@ main div h1 {
     font-size: 24px;
     font-style: normal;
     font-weight: 600;
+}
+
+.discountmain {
+    display: flex;
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-bottom: 128px;
+
+}
+
+.discount {
+    display: block;
+    padding-top: 230px;
+}
+
+.discount h1 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    padding-left: 423px;
+    margin-bottom: 24px;
+}
+
+#color {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+.discount p {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 395px;
+    margin-bottom: 32px;
+}
+
+.discount button {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    border: none;
+    margin-left: 603px;
+}
+
+#discountimg {
+    width: 318px;
+    height: 420px;
+    padding: 100px 429px 100px 186px;
+}
+
+.instadiv {
+    display: block;
+    text-align: center;
+    font-family: Lato;
+    font-style: normal;
+}
+
+.instadiv h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    font-family: Lato;
+    font-style: normal;
+    padding-bottom: 24px;
+}
+
+.instadiv p {
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Lato;
+    font-style: normal;
+    padding-left: 650px;
+    margin-bottom: 48px;
+}
+
+.flowerflex {
+    display: flex;
+    gap: 24px;
+    padding-left: 240px;
+    margin-bottom: 128px;
+}
+
+.inputdiv {
+    display: block;
+    text-align: center;
+    width: 1440px;
+    height: 449px;
+    border-radius: 8px;
+    background-image: url("../Rectangle\ 9.png");
+    margin-left: 240px;
+    margin-bottom: 128px;
+
+}
+
+.inputdiv h1 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    padding-top: 122px;
+    margin-bottom: 16px;
+
+}
+
+.inputdiv p {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 48px;
+}
+
+.inputdiv input {
+    border-radius: 8px;
+    background: #FFF;
+    width: 700px;
+    height: 64px;
+    border: none;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding-left: 22px;
+}
+
+.inputdiv button {
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    background: #E55473;
+    border: none;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
 }
