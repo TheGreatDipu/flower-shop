@@ -1,0 +1,51 @@
+#frontposter {
+    width: 1920px;
+    height: 850px;
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+}
+
+header div div {
+    margin-left: 240px;
+}
+
+header div div h1 {
+    width: 650px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 197px;
+    margin-bottom: 32px;
+}
+
+header div div p {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+header div div button {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 147px;
+}
+
+#redflower {
+    width: 635px;
+    height: 800px;
+    margin-top: 50px;
+    margin-left: 97px;
+    margin-right: 240px;
+}
